@@ -24,8 +24,5 @@
         "psr-4": {
             "Anomaly\\EmailFieldType\\": "src/"
         }
-    },
-    "require": {
-        "anomaly/streams-platform": "^1.10"
     }
 }
